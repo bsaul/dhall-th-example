@@ -1,0 +1,4 @@
+{
+  foo  : Text
+, baz : Integer
+}
